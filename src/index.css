@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: 'Source Sans Pro', sans-serif;
+font-family: 'STIX Two Math', serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

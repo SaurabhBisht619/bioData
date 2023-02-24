@@ -1,0 +1,19 @@
+.personal-contact {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.personal-icon-div{
+    padding: 6px;
+    cursor: pointer;
+    margin: 6px;
+}
+.personal-icon {
+    height: 48px;
+}
+
+@media only screen and (max-width: 720px) {
+    .personal-icon{
+        height: 32px;
+    }
+}
